@@ -1,0 +1,34 @@
+.dogs, .cats {
+  border: 3px blue solid;
+  overflow: hidden;
+}
+.col1, .cal1{
+  float: left;
+  width: 33%;
+
+}
+.col2, .cal2{
+  float: left;
+  width: 33%;
+
+}
+.col3, .cal3{
+  float: left;
+  width: 33%;
+
+}
+img {
+  display:block;
+  max-width: 95%;
+  width: auto;
+  height: auto;
+}
+body {
+  background-image: url(https://cdn.theatlantic.com/assets/media/img/mt/2015/10/Cygnus_v3_BandW/facebook.jpg?1444687096);
+}
+p {
+  color:white;
+}
+h1, h2 {
+  color:white;
+}
